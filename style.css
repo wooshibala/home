@@ -1,0 +1,69 @@
+.container{
+  height: 289px;
+  width: 260px;
+
+  background-color: #84F9C1;
+}
+.window1{
+  width: 55px;
+  height: 50px;
+ 
+  background-color: #E7C1F9;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.window2{
+  width: 55px;
+  height: 50px;
+ 
+  background-color: #E7C1F9;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.window3{
+  width: 55px;
+  height: 50px;
+ 
+  background-color: #E7C1F9;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 185px;
+}
+.window4{
+  width: 55px;
+  height: 50px;
+ 
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 15px;
+  background-color: #E7C1F9;
+}
+.window5{
+  width: 55px;
+  height: 50px;
+ 
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 100px;
+  background-color: #E7C1F9;
+}
+.window6{
+  width: 55px;
+  height: 50px;
+ 
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 185px;
+  background-color: #E7C1F9;
+}
+.door{
+  width: 63px;
+  height: 94px;
+  
+  background-color: #FFECBB;
+  position: absolute;
+  margin-top: 194px;
+  margin-left: 90px;
+}
